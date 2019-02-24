@@ -1,0 +1,16 @@
+body {
+    background-color:orange;
+}
+ 
+nav{
+    background-color:#eeeeee;
+    width:125px;
+    height:200px;
+    display:inline-block;
+    font-size:18px;
+}
+
+iframe{
+    width: 860px;
+    height:460px;
+}
